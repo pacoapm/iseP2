@@ -1,0 +1,7 @@
+# Archivos Ignorados por Git
+*.bin
+*.tgz
+*.bak
+*.cpio
+**/log
+
